@@ -1,7 +1,10 @@
 # Publishing Manifold
 *NYCDH Workshop* 
+
 6-8 P.M. February 6, 2020
+
 The Graduate Center, CUNY, 5307
+
 Leaders: Jojo Karlin and Krystyna Michael
 
 ## Workshop Materials
@@ -27,8 +30,12 @@ Everyone will create a project on the [CUNY Manifold Instance](https://cuny.mani
 ## Contact us
 
 Jojo Karlin jkarlin@gradcenter.cuny.edu
+
 [Manifold informational website](https://manifoldapp.org/)
+
 [Manifold on Slack](https://manifold-slackin.herokuapp.com/)
+
 [Manifold on Github](https://github.com/ManifoldScholar/manifold)
+
 [Manifold on Twitter](https://twitter.com/ManifoldScholar)
 
