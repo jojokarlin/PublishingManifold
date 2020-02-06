@@ -1,0 +1,17 @@
+meta:
+  title: 'Publishing with Manifold: An Introduction to Manifest Ingestion'
+  language: en
+  rights: 'This text is licensed under a CC BY-NC-ND 3.0 license.'
+  description: "This text was created from a Manifold manifest ingestion. Manifest ingestions bring together documents from a variety of sources."
+  creators:
+    - name: Jojo Karlin
+    - name: Krystyna Michael
+    - name: Workshop participants
+toc:
+  - label: Title Page
+    source_path: https://docs.google.com/document/d/1o8do285iC1fGGfJwNYjlVVo5cwbgEYW6hXGOIhkqZBk/edit?usp=sharing
+    start_section: true
+  - label: 'Introduction'
+    source_path: https://docs.google.com/document/d/1tv6mlLiF6GHlGjf2EBrPQxoz1zF0fgEtl14NRlOWdg0/edit?usp=sharing
+  - label: 'Chapter 1'
+    source_path: https://docs.google.com/document/d/1YG_LdGVgk_7_Tt5ebbM1mqkIW1sAxVnjnz1PQWH27rY/edit?usp=sharing
