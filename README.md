@@ -1,4 +1,4 @@
-# Publishing Manifold
+# Publishing with Manifold
 *NYCDH Workshop* 
 
 6-8 P.M. February 6, 2020
@@ -33,7 +33,21 @@ In this portion, we review the origins of Manifold from the first Debates in Dig
 After orienting the participants within the history of the project, we take them to [CUNY's Manifold instance](cuny.manifoldapp.org) to demonstrate the [project layout](https://cuny.manifoldapp.org/read/untitled-19b8ffcb-9e36-4979-83f2-d41520e8dd05/section/6b3e8941-3c60-4a65-a259-7713d3ff2878), reading experience, and [annotation functionality](https://cuny.manifoldapp.org/read/untitled-cfeb52cc-ce23-4eb5-b039-7baf200760ed/section/099f95ae-a371-483d-a6e9-c44d7e8f5418). The demo shows how users can navigate texts, [add and embed resources](https://cuny.manifoldapp.org/read/untitled-0db854db-81d0-4a6c-aeb6-3d74d67a19bf/section/6e7e3261-7475-4ad4-8b5c-113cbe6652c2) and create resource collections, and annotate, share or cite the project they are reading.
 
 ### What can you publish?
-In this segment, we talk about the formats of text and resources that Manifold can ingest. 
+In this segment, we talk about the types of projects you might create and the formats of text and resources that Manifold can ingest. 
+
+#### Teaching Models
+Manifold supports many uses, including the publication of vibrant, interactive on-line texts for teachers. For our workshops, we introduce participants to a few examples of work CUNY faculty and students have published. These examples are helpful for understanding the different options available and what sort of preparation the materials require for publication. In all cases, the authors decide their own license, though we encourage them to consider using a [Creative Commons license]()
+
+##### Rich Course Texts
+Rich Course Texts
+Embed multimedia resources into the text - Petrarch’s Canzoniere
+
+##### CUNY Student Editions
+Conceived of and helmed by Paul Hebert, [CUNY Student Editions](https://github.com/CUNY-Student-Editions) are 
+a for Collaborative Annotation
+Ensure students have access to the same, high quality edition - The Scarlet Letter and Migos Studies
+Student Work
+Publish students’ final papers or collaborative project - Structuring Equality
 
 #### What types of files can you publish?
  - Google Docs (using pulblic share url)
