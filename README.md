@@ -53,9 +53,6 @@ Conceived of and helmed by Paul Hebert, [CUNY Student Editions](https://github.c
 
 *CUNY Student Editions are built as **EPUBs** and follow the stylesheet provided on the project github repository.*
 
-a for Collaborative Annotation
- - The Scarlet Letter and Migos Studies
-
 ##### Publishing Student Work
 Several groups and individuals have used Manifold to publish collections of student work.
 
