@@ -25,7 +25,7 @@ In particular, we'll cover the following:
 - Publishing Google Docs
 - Questions
 
-Everyone will create a project on the [CUNY Manifold Instance](https://cuny.manifoldapp.org). I'll walk everyone through basic project setup steps, and then cut you loose to setup your own projects.
+Everyone will create a project on the [CUNY Manifold instance](https://cuny.manifoldapp.org). I'll walk everyone through basic project setup steps, and then cut you loose to setup your own projects.
 
 ### What is Manifold?
 In this portion, we review the origins of Manifold from the first Debates in Digital Humanities site built by [Cast Iron Coding](www.castironcoding.com) for the collection edited by [Matt Gold]() published by [Doug Armato]() and [The University of Minnesota Pres](). After discussing the [Andrew R. Mellon Foundation]()'s origin funding for the non-pdf solution for the scholarly monograph, we summarize the development that led Manifold to its broader purposes for Open Access and Open Educational Resource publishing.
