@@ -36,18 +36,40 @@ After orienting the participants within the history of the project, we take them
 In this segment, we talk about the types of projects you might create and the formats of text and resources that Manifold can ingest. 
 
 #### Teaching Models
-Manifold supports many uses, including the publication of vibrant, interactive on-line texts for teachers. For our workshops, we introduce participants to a few examples of work CUNY faculty and students have published. These examples are helpful for understanding the different options available and what sort of preparation the materials require for publication. In all cases, the authors decide their own license, though we encourage them to consider using a [Creative Commons license]()
+Manifold supports many uses, including the publication of vibrant, interactive on-line texts for teachers. For our workshops, we introduce participants to a few examples of work CUNY faculty and students have published. These examples are helpful for understanding the different options available and what sort of preparation the materials require for publication. In all cases, the authors decide their own license, though we encourage them to consider using a [Creative Commons license](https://creativecommons.org/share-your-work/). For more about OER licenses, check out the [City College English Department OER Guide](https://cuny.manifoldapp.org/projects/city-college-english-department-oer-guide) by Julia Brown, Yolande Brener, and Janelle Poe, and GC Librarian Jill Cirasella's ["Transformed, I'm Sure: A (Polite) Guide to Fair Use in DH"](https://academicworks.cuny.edu/gc_pubs/509/).
 
 ##### Rich Course Texts
-Rich Course Texts
-Embed multimedia resources into the text - Petrarch’s Canzoniere
+
+Instructors often leverage Manifold's capacity to store multimedia resources that complement the text. For example, Julie von Peteghem (Hunter) used Manifold to publish her selection of [Petrarch's Canzoniere](https://cuny.manifoldapp.org/projects/canzoniere) and annotate each text with [LibriVox](https://librivox.org/) openly licensed audio recordings of native Italian speakers reading the poems.
+
+   *For this project, Julie von Peteghem learned **markdown** and created a manifest for ingestion*
+
+Justin Rogers-Cooper (LaGuardia) created an edition of [Hubert Harrison's The Negro and the Nation](https://cuny.manifoldapp.org/projects/hubert-harrison-the-negro-and-the-nation) for his American Studies seminar at the Graduate Center. Students contributed resources and annotations over the course of the semester, as he describes on the project homepage.
+
+*This project was created in **markdown** and ingested with a manifest*
 
 ##### CUNY Student Editions
-Conceived of and helmed by Paul Hebert, [CUNY Student Editions](https://github.com/CUNY-Student-Editions) are 
+Conceived of and helmed by Paul Hebert, [CUNY Student Editions](https://github.com/CUNY-Student-Editions) are edited versions of public domain texts that ensure students have access to the same, high quality edition.
+
+*CUNY Student Editions are built as **EPUBs** and follow the stylesheet provided on the project github repository.*
+
 a for Collaborative Annotation
-Ensure students have access to the same, high quality edition - The Scarlet Letter and Migos Studies
-Student Work
-Publish students’ final papers or collaborative project - Structuring Equality
+ - The Scarlet Letter and Migos Studies
+
+##### Publishing Student Work
+Several groups and individuals have used Manifold to publish collections of student work.
+
+MALS student Jing Zhao used Manifold to publish his capstone ["Spatial Distribution of Chinese Language Education and Historical Development of Chinese Language Pedagogy in Higher Education in the United States."](https://cuny.manifoldapp.org/projects/spatial-distribution-of-chinese-language-education-and-historical-development-of-chinese-language-pedagogy-in-higher-education-in-the-united-states)
+
+*Each chapter of this project was written in a separate **Google doc** and ingested with a manifest.*
+
+Brooklyn College literature instructor Marianne Madoré used Manifold to publish a collection of reflections her students wrote in ["Gender & Society" and us in the classroom](https://cuny.manifoldapp.org/projects/gender-and-society) 
+
+*Each essay was written in **Microsoft Word** and ingested as individual texts.*
+
+The Futures Initiative used Manifold to publish [Structuring Equality: A Handbook for Student-Centered Learning and Teaching Practices](https://cuny.manifoldapp.org/projects/structuring-equality), the culmination of [Cathy Davidson](https://www.gc.cuny.edu/Faculty/Core-Bios/Cathy-N-Davidson)'s seminar at the Graduate Center.
+
+*Each chapter of this project was written in a separate **Google doc** and ingested with a manifest.*
 
 #### What types of files can you publish?
  - Google Docs (using pulblic share url)
