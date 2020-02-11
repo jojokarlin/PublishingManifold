@@ -49,9 +49,9 @@ Justin Rogers-Cooper (LaGuardia) created an edition of [Hubert Harrison's The Ne
 *This project was created in **markdown** and ingested with a manifest*
 
 ##### CUNY Student Editions
-Conceived of and helmed by Paul Hebert, collaborating with Christina Katopodis and Jason Nielsen, [CUNY Student Editions](https://github.com/CUNY-Student-Editions) are open source, digital, scholarly editions of historical texts, accessibly designed for CUNY students. CUNY Student Editions aim to be easy to find and access, accessible by screen readers and the like, and accessible in length and content for a range of students and learning styles.
+A project started by Paul Hebert (GC English PhD and Queens instructor), [CUNY Student Editions](https://github.com/CUNY-Student-Editions) are scholarly, peer-reviewed, accessibly designed editions of historical texts.
 
-*CUNY Student Editions are built as **EPUB 3s** and follow the stylesheet provided on the project github repository. They use source documents ranging from digital archives to phone pictures from library archives. Most of the editing happens in CSS and XHTML using [Calibre](https://calibre-ebook.com/), a text editor, and Github*
+*Each edition is built as an open source EPUB in a GitHub repository so that the public can contribute, download, and adapt the source files.*
 
 ##### Publishing Student Work
 Several groups and individuals have used Manifold to publish collections of student work.
