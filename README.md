@@ -9,7 +9,7 @@ Leaders: Jojo Karlin and Krystyna Michael
 
 ## Workshop Materials
 
-The slides for our presentation can be [downloaded here](https://github.com/jojokarlin/PublishingManifold/PublishingManifold/ManifoldPublishing_NYCDH2020.key)
+The slides for our presentation can be [downloaded here](https://github.com/jojokarlin/PublishingManifold/raw/master/ManifoldPublishing_NYCDH2020.pdf)
 
 The worksheet for our presentation can be [read here](https://github.com/jojokarlin/Manifold_Handout.docx)
 
